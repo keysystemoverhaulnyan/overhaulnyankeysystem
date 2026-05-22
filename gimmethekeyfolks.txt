@@ -1,0 +1,5 @@
+return {
+    "AUTOFARMNEW",
+    "PLSDONTLEAVE",
+    "NEWNYAN"
+}
