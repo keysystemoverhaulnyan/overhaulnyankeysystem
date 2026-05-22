@@ -1,5 +1,5 @@
 return {
-    "1N82",
-    "MCH3",
-    "J2SI"
+    "VIKT8QJMA8ZK0H",
+    "MMDAHNR046J9EP",
+    "HBOAF53RETFAMR"
 }
