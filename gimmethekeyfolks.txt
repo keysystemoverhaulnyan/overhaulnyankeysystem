@@ -1,5 +1,5 @@
 return {
-    "JU3G",
-    "SI6W",
-    "BIMJ"
+    "1N82",
+    "MCH3",
+    "J2SI"
 }
