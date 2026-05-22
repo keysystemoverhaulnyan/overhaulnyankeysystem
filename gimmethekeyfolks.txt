@@ -1,5 +1,5 @@
 return {
-    "AUTOFARMNEW",
-    "PLSDONTLEAVE",
-    "NEWNYAN"
+    "C6PV",
+    "CP42",
+    "5OKL"
 }
