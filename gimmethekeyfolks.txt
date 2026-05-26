@@ -1,5 +1,5 @@
 return {
-    "8ZXN",
-    "3F2Y",
-    "EYO9"
+    "LASTKEYUPDATE",
+    "NYANSAKEN",
+    "MEWMEW"
 }
