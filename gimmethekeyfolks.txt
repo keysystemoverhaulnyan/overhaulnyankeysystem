@@ -1,5 +1,5 @@
 return {
-    "LASTKEYUPDATE",
-    "NYANSAKEN",
-    "MEWMEW"
+    "UPDATEKEY",
+    "OVERHAUL",
+    "MEOW"
 }
